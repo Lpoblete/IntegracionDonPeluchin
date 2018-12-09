@@ -7,8 +7,6 @@ para iniciar este proyecto se debe empezar por el proyecto 'ERPIntegracion' para
 
 A continuación, les dejo el script de la BD:
 
-Login:
-
 create table Usuario(
 Nombre varchar(50),
 Pass varchar(50),
