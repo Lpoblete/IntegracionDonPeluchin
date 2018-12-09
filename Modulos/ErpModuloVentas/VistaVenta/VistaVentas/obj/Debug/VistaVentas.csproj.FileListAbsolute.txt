@@ -1,0 +1,42 @@
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\VistaVentas\bin\VistaVentas.dll.config
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\VistaVentas\bin\VistaVentas.dll
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\VistaVentas\bin\VistaVentas.pdb
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\VistaVentas\obj\Debug\VistaVentas.dll
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\VistaVentas\obj\Debug\VistaVentas.pdb
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\VistaVentas\obj\Debug\VistaVentas.csprojResolveAssemblyReference.cache
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\VistaVentas\bin\Coneccion.dll
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\VistaVentas\bin\Modelo.dll
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\VistaVentas\bin\Coneccion.pdb
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\VistaVentas\bin\Modelo.pdb
+E:\ErpModuloVentas\VistaVenta\VistaVentas\obj\Debug\VistaVentas.csprojResolveAssemblyReference.cache
+E:\ErpModuloVentas\VistaVenta\VistaVentas\obj\Debug\VistaVentas.dll
+E:\ErpModuloVentas\VistaVenta\VistaVentas\bin\VistaVentas.dll.config
+E:\ErpModuloVentas\VistaVenta\VistaVentas\bin\VistaVentas.dll
+E:\ErpModuloVentas\VistaVenta\VistaVentas\bin\VistaVentas.pdb
+E:\ErpModuloVentas\VistaVenta\VistaVentas\bin\Coneccion.dll
+E:\ErpModuloVentas\VistaVenta\VistaVentas\bin\Modelo.dll
+E:\ErpModuloVentas\VistaVenta\VistaVentas\bin\Coneccion.pdb
+E:\ErpModuloVentas\VistaVenta\VistaVentas\bin\Modelo.pdb
+E:\ErpModuloVentas\VistaVenta\VistaVentas\obj\Debug\VistaVentas.pdb
+F:\ErpModuloVentas\VistaVenta\VistaVentas\bin\VistaVentas.dll.config
+F:\ErpModuloVentas\VistaVenta\VistaVentas\bin\VistaVentas.dll
+F:\ErpModuloVentas\VistaVenta\VistaVentas\bin\VistaVentas.pdb
+F:\ErpModuloVentas\VistaVenta\VistaVentas\bin\Coneccion.dll
+F:\ErpModuloVentas\VistaVenta\VistaVentas\bin\Modelo.dll
+F:\ErpModuloVentas\VistaVenta\VistaVentas\bin\Coneccion.pdb
+F:\ErpModuloVentas\VistaVenta\VistaVentas\bin\Modelo.pdb
+F:\ErpModuloVentas\VistaVenta\VistaVentas\obj\Debug\VistaVentas.csprojResolveAssemblyReference.cache
+F:\ErpModuloVentas\VistaVenta\VistaVentas\obj\Debug\VistaVentas.dll
+F:\ErpModuloVentas\VistaVenta\VistaVentas\obj\Debug\VistaVentas.pdb
+F:\ErpModuloVentas\VistaVenta\VistaVentas\bin\itextsharp.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\VistaVentas\bin\VistaVentas.dll.config
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\VistaVentas\bin\VistaVentas.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\VistaVentas\bin\VistaVentas.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\VistaVentas\bin\Coneccion.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\VistaVentas\bin\itextsharp.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\VistaVentas\bin\Modelo.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\VistaVentas\bin\Coneccion.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\VistaVentas\bin\Modelo.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\VistaVentas\obj\Debug\VistaVentas.csprojResolveAssemblyReference.cache
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\VistaVentas\obj\Debug\VistaVentas.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\VistaVentas\obj\Debug\VistaVentas.pdb

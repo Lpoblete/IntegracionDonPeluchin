@@ -1,0 +1,15 @@
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\Modelo\bin\Debug\Modelo.dll
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\Modelo\obj\Debug\Modelo.dll
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\Modelo\obj\Debug\Modelo.pdb
+F:\ErpModuloVentas\VistaVenta\Modelo\bin\Debug\Modelo.dll
+F:\ErpModuloVentas\VistaVenta\Modelo\bin\Debug\Modelo.pdb
+F:\ErpModuloVentas\VistaVenta\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+F:\ErpModuloVentas\VistaVenta\Modelo\obj\Debug\Modelo.dll
+F:\ErpModuloVentas\VistaVenta\Modelo\obj\Debug\Modelo.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\Modelo\bin\Debug\Modelo.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\Modelo\bin\Debug\Modelo.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\Modelo\obj\Debug\Modelo.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\Modelo\obj\Debug\Modelo.pdb

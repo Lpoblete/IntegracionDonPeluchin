@@ -1,0 +1,24 @@
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\Coneccion\obj\Debug\Coneccion.csprojResolveAssemblyReference.cache
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\Coneccion\bin\Debug\Coneccion.dll.config
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\Coneccion\bin\Debug\Coneccion.dll
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\Coneccion\bin\Debug\Coneccion.pdb
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\Coneccion\bin\Debug\Modelo.dll
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\Coneccion\bin\Debug\Modelo.pdb
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\Coneccion\obj\Debug\Coneccion.dll
+C:\Users\Akatsuki\Documents\ErpModuloVentas\VistaVenta\Coneccion\obj\Debug\Coneccion.pdb
+F:\ErpModuloVentas\VistaVenta\Coneccion\bin\Debug\Coneccion.dll.config
+F:\ErpModuloVentas\VistaVenta\Coneccion\bin\Debug\Coneccion.dll
+F:\ErpModuloVentas\VistaVenta\Coneccion\bin\Debug\Coneccion.pdb
+F:\ErpModuloVentas\VistaVenta\Coneccion\bin\Debug\Modelo.dll
+F:\ErpModuloVentas\VistaVenta\Coneccion\bin\Debug\Modelo.pdb
+F:\ErpModuloVentas\VistaVenta\Coneccion\obj\Debug\Coneccion.csprojResolveAssemblyReference.cache
+F:\ErpModuloVentas\VistaVenta\Coneccion\obj\Debug\Coneccion.dll
+F:\ErpModuloVentas\VistaVenta\Coneccion\obj\Debug\Coneccion.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\Coneccion\bin\Debug\Coneccion.dll.config
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\Coneccion\bin\Debug\Coneccion.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\Coneccion\bin\Debug\Coneccion.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\Coneccion\bin\Debug\Modelo.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\Coneccion\bin\Debug\Modelo.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\Coneccion\obj\Debug\Coneccion.csprojResolveAssemblyReference.cache
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\Coneccion\obj\Debug\Coneccion.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ErpModuloVentas\VistaVenta\Coneccion\obj\Debug\Coneccion.pdb

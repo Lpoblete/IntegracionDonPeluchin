@@ -1,0 +1,60 @@
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\roslyn\csc.exe
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\roslyn\System.Collections.Immutable.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\roslyn\System.Reflection.Metadata.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\roslyn\vbc.exe
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\roslyn\VBCSCompiler.exe
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\roslyn\VBCSCompiler.exe.config
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\ERPIntegracion.dll.config
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\ERPIntegracion.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\ERPIntegracion.pdb
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\obj\Debug\ERPIntegracion.csprojResolveAssemblyReference.cache
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\obj\Debug\ERPIntegracion.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPIntegracion\ERPIntegracion\obj\Debug\ERPIntegracion.pdb
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\roslyn\csc.exe
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\roslyn\vbc.exe
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\roslyn\VBCSCompiler.exe
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\ERPIntegracion.dll.config
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\ERPIntegracion.dll
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\ERPIntegracion.pdb
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\obj\Debug\ERPIntegracion.csprojResolveAssemblyReference.cache
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\obj\Debug\ERPIntegracion.dll
+C:\Users\LeandroAndres\Desktop\Experimento integra\ERPIntegracion\ERPIntegracion\obj\Debug\ERPIntegracion.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\roslyn\csc.exe
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\roslyn\System.Collections.Immutable.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\roslyn\System.Reflection.Metadata.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\roslyn\vbc.exe
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\roslyn\VBCSCompiler.exe
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\roslyn\VBCSCompiler.exe.config
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\ERPIntegracion.dll.config
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\ERPIntegracion.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\ERPIntegracion.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\obj\Debug\ERPIntegracion.csprojResolveAssemblyReference.cache
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\obj\Debug\ERPIntegracion.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\ERPIntegracion\ERPIntegracion\obj\Debug\ERPIntegracion.pdb

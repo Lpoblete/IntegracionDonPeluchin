@@ -1,0 +1,18 @@
+C:\Users\bugue\Desktop\DonPeluchin_SistemasII\ModuloLogistica\ModuloLogistica\bin\ModuloLogistica.dll.config
+C:\Users\bugue\Desktop\DonPeluchin_SistemasII\ModuloLogistica\ModuloLogistica\bin\ModuloLogistica.dll
+C:\Users\bugue\Desktop\DonPeluchin_SistemasII\ModuloLogistica\ModuloLogistica\bin\ModuloLogistica.pdb
+C:\Users\bugue\Desktop\DonPeluchin_SistemasII\ModuloLogistica\ModuloLogistica\obj\Debug\ModuloLogistica.csprojResolveAssemblyReference.cache
+C:\Users\bugue\Desktop\DonPeluchin_SistemasII\ModuloLogistica\ModuloLogistica\obj\Debug\ModuloLogistica.dll
+C:\Users\bugue\Desktop\DonPeluchin_SistemasII\ModuloLogistica\ModuloLogistica\obj\Debug\ModuloLogistica.pdb
+C:\Users\diegoantonio\Desktop\Carpeta Sistema de Informacion\DonPeluchin_SistemasII\ModuloLogistica\ModuloLogistica\bin\ModuloLogistica.dll.config
+C:\Users\diegoantonio\Desktop\Carpeta Sistema de Informacion\DonPeluchin_SistemasII\ModuloLogistica\ModuloLogistica\bin\ModuloLogistica.dll
+C:\Users\diegoantonio\Desktop\Carpeta Sistema de Informacion\DonPeluchin_SistemasII\ModuloLogistica\ModuloLogistica\bin\ModuloLogistica.pdb
+C:\Users\diegoantonio\Desktop\Carpeta Sistema de Informacion\DonPeluchin_SistemasII\ModuloLogistica\ModuloLogistica\obj\Debug\ModuloLogistica.csprojResolveAssemblyReference.cache
+C:\Users\diegoantonio\Desktop\Carpeta Sistema de Informacion\DonPeluchin_SistemasII\ModuloLogistica\ModuloLogistica\obj\Debug\ModuloLogistica.dll
+C:\Users\diegoantonio\Desktop\Carpeta Sistema de Informacion\DonPeluchin_SistemasII\ModuloLogistica\ModuloLogistica\obj\Debug\ModuloLogistica.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ModuloLogistica\ModuloLogistica\bin\ModuloLogistica.dll.config
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ModuloLogistica\ModuloLogistica\bin\ModuloLogistica.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ModuloLogistica\ModuloLogistica\bin\ModuloLogistica.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ModuloLogistica\ModuloLogistica\obj\Debug\ModuloLogistica.csprojResolveAssemblyReference.cache
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ModuloLogistica\ModuloLogistica\obj\Debug\ModuloLogistica.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ModuloLogistica\ModuloLogistica\obj\Debug\ModuloLogistica.pdb

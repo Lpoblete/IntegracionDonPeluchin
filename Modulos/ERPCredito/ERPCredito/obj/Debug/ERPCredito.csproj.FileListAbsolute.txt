@@ -1,0 +1,69 @@
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\csc.exe
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\System.Collections.Immutable.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\System.Reflection.Metadata.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\vbc.exe
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\VBCSCompiler.exe
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\VBCSCompiler.exe.config
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\ERPCredito.dll.config
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\ERPCredito.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\ERPCredito.pdb
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\obj\Debug\ERPCredito.csprojResolveAssemblyReference.cache
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\obj\Debug\ERPCredito.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\obj\Debug\ERPCredito.pdb
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\Classes.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\Classes.pdb
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\itextsharp.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\csc.exe
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\System.Collections.Immutable.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\System.Reflection.Metadata.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\vbc.exe
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\VBCSCompiler.exe
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\roslyn\VBCSCompiler.exe.config
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\ERPCredito.dll.config
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\ERPCredito.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\ERPCredito.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\Classes.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\itextsharp.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\Classes.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\obj\Debug\ERPCredito.csprojResolveAssemblyReference.cache
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\obj\Debug\ERPCredito.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\ERPCredito\obj\Debug\ERPCredito.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\roslyn\csc.exe
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\roslyn\System.Collections.Immutable.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\roslyn\System.Reflection.Metadata.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\roslyn\vbc.exe
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\roslyn\VBCSCompiler.exe
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\roslyn\VBCSCompiler.exe.config
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\ERPCredito.dll.config
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\ERPCredito.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\ERPCredito.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\Classes.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\itextsharp.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\Classes.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\obj\Debug\ERPCredito.csprojResolveAssemblyReference.cache
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\obj\Debug\ERPCredito.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\ERPCredito\obj\Debug\ERPCredito.pdb

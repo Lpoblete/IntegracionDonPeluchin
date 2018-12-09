@@ -1,0 +1,15 @@
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\Classes\bin\Debug\Classes.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\Classes\bin\Debug\Classes.pdb
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\Classes\obj\Debug\Classes.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\Classes\obj\Debug\Classes.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\Classes\bin\Debug\Classes.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\Classes\bin\Debug\Classes.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\Classes\obj\Debug\Classes.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCredito\Classes\obj\Debug\Classes.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\Classes\bin\Debug\Classes.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\Classes\bin\Debug\Classes.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\Classes\obj\Debug\Classes.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCredito\Classes\obj\Debug\Classes.pdb

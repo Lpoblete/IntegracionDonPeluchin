@@ -1,0 +1,15 @@
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCobranza\Classes\bin\Debug\Classes.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCobranza\Classes\bin\Debug\Classes.pdb
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCobranza\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCobranza\Classes\obj\Debug\Classes.dll
+D:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCobranza\Classes\obj\Debug\Classes.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCobranza\Classes\bin\Debug\Classes.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCobranza\Classes\bin\Debug\Classes.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCobranza\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCobranza\Classes\obj\Debug\Classes.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\ERPCobranza\Classes\obj\Debug\Classes.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCobranza\Classes\bin\Debug\Classes.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCobranza\Classes\bin\Debug\Classes.pdb
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCobranza\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCobranza\Classes\obj\Debug\Classes.dll
+C:\INACAP\INACAP Cuarto semestre\Sistema de informacion 2\THE INTEGRATION\Modulos\ERPCobranza\Classes\obj\Debug\Classes.pdb
